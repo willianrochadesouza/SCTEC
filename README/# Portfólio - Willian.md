@@ -44,6 +44,12 @@ Este portfólio representa a aplicação prática desses conhecimentos, mesmo se
 ## Objetivo  
   
 Meu objetivo é evoluir continuamente na área de tecnologia, desenvolvendo soluções que unam lógica, design e aplicação prática no mercado.  
+
+## Observação sobre o uso de IA
+
+Durante o desenvolvimento deste projeto, utilizei ferramentas de apoio como o GitHub Copilot para auxiliar na construção de algumas partes em JavaScript.
+
+O uso dessas ferramentas teve como objetivo otimizar o processo de desenvolvimento e apoiar o aprendizado, sempre buscando compreender e adaptar os códigos gerados conforme os conceitos estudados.
   
 ## Contato  
   
